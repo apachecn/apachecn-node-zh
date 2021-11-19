@@ -1,4 +1,4 @@
-# ApacheCN NodeJs 译文集
+# ApacheCN NodeJS 译文集
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
