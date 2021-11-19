@@ -1,6 +1,4 @@
-B15508_Section_3_Final_JC_ePub
-
-# 第 3 节：使用 Express 和 GraphQL 理解 Web 服务开发
+# 第三部分：使用 Express 和 GraphQL 理解 Web 服务开发
 
 在本节中，我们将了解 web 服务的功能，并了解 Express 和 GraphQL 如何帮助我们构建高性能服务。
 
@@ -15,4 +13,4 @@ B15508_Section_3_Final_JC_ePub
 *   [*第 14 章*](14.html#_idTextAnchor216)*设置 Postgres 和库层，字体为*
 *   [*第 15 章*](15.html#_idTextAnchor222)，*增加 GraphQL 模式——第一部分*
 *   [*第 16 章*](16.html#_idTextAnchor254)，*增加 GraphQL 模式–第二部分*
-*   [*第 17 章*](17.html#_idTextAnchor259)*向 AWS*部署应用程序
+*   [*第 17 章*](17.html#_idTextAnchor259)*向 AWS*部署应用

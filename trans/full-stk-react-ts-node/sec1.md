@@ -1,6 +1,4 @@
-B15508_Section_1_Final_JC_ePub
-
-# 第 1 节：理解 TypeScript 及其如何改进 JavaScript
+# 第一部分：理解 TypeScript 及其如何改进 JavaScript
 
 本节概述了 TypeScript 的优点及其最重要的语言特性。我们还将介绍 ES6 最重要的功能，以及如何提高代码质量和可读性。
 
