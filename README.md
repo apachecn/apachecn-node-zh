@@ -10,16 +10,25 @@
 
 ## 目录
 
-+   [Node API 开发入门指南](docs/begin-api-dev-node/SUMMARY.md)
-+   [React TypeScript Node 全栈开发](docs/full-stk-react-ts-node/SUMMARY.md)
-+   [JavaScript 区块链编程学习手册](docs/learn-bc-prog-js/SUMMARY.md)
-+   [NodeJS 开发学习手册](docs/learn-node-dev/SUMMARY.md)
-+   [精通 NodeJS](docs/master-node/SUMMARY.md)
-+   [MERN 快速启动指南 ](docs/mern-quick-start-guide/SUMMARY.md)
-+   [现代 JavaScript Web 开发秘籍](docs/modern-js-web-dev-cb/SUMMARY.md)
-+   [NodeJS 秘籍](docs/node-cb/SUMMARY.md)
-+   [NodeJS Web 开发](docs/node-web-dev/SUMMARY.md)
-+   [NodeJS10 REST Web API 设计](docs/rest-web-api-design-node10/SUMMARY.md)
++   [Node API 开发入门指南](docs/begin-api-dev-node/SYMMARY.md)
++   [React TypeScript Node 全栈开发](docs/full-stk-react-ts-node/SYMMARY.md)
++   [JavaScript 区块链编程学习手册](docs/learn-bc-prog-js/SYMMARY.md)
++   [NodeJS 开发学习手册](docs/learn-node-dev/SYMMARY.md)
++   [精通 NodeJS](docs/master-node/SYMMARY.md)
++   [MERN 快速启动指南 ](docs/mern-quick-start-guide/SYMMARY.md)
++   [现代 JavaScript Web 开发秘籍](docs/modern-js-web-dev-cb/SYMMARY.md)
++   [NodeJS 秘籍](docs/node-cb/SYMMARY.md)
++   [NodeJS Web 开发](docs/node-web-dev/SYMMARY.md)
++   [NodeJS10 REST Web API 设计](docs/rest-web-api-design-node10/SYMMARY.md)
++   [跨平台桌面应用开发](docs/cross-plat-desk-app-dev/SYMMARY.md)
++   [NodeJS 微服务开发](docs/dev-microsvc-node/SYMMARY.md)
++   [NodeJS Vue 全栈 Web 开发](docs/full-stk-web-dev-vue-node/SYMMARY.md)
++   [MEAN Web 开发](docs/mean-web-dev/SYMMARY.md)
++   [NestJS：Node 渐进式框架](docs/nest-prog-node-frame/SYMMARY.md)
++   [NodeJS 示例](docs/node-exam/SYMMARY.md)
++   [Node-Red 实战编程](docs/prac-node-red-prog/SYMMARY.md)
++   [TypeScript 微服务](docs/ts-microsvc/SYMMARY.md)
++   [NodeJS MongoDB Web 开发](docs/web-dev-mongo-node/SYMMARY.md)
 
 ## 贡献指南
 
