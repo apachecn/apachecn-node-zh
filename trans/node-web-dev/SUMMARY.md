@@ -1,7 +1,7 @@
 +   [NodeJS Web 开发](README.md)
 +   [零、前言](00.md)
 +   [一、关于 Node.js](01.md)
-+   [设置 Node.js](02.md)
++   [二、设置 Node.js](02.md)
 +   [三、Node.js 模块](03.md)
 +   [四、HTTP 服务器和客户端](04.md)
 +   [五、您的第一个简单应用](05.md)
