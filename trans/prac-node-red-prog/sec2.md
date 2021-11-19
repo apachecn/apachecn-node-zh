@@ -1,8 +1,6 @@
-B16353_Section_2_ePub_AM <link href="css/style-JRserifv3.css" rel="stylesheet" type="text/css">
+# 第二部分：掌握 Node-RED
 
-# 第二节:掌握 Node-RED
-
-在本节中，读者将使用 Node-RED 流编辑器实际创建应用程序。 他们不是从一开始就尝试构建高级应用程序，而是首先学习如何为每个主要环境(即独立环境，如 Raspberry Pi、桌面和云)创建示例流。
+在本节中，读者将使用 Node-RED 流编辑器实际创建应用。 他们不是从一开始就尝试构建高级应用，而是首先学习如何为每个主要环境(即独立环境，如 Raspberry Pi、桌面和云)创建示例流。
 
 在本节中，我们将涵盖以下章节:
 

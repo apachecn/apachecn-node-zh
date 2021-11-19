@@ -1,6 +1,4 @@
-B16353_Section_1_ePub_AM <link href="css/style-JRserifv3.css" rel="stylesheet" type="text/css">
-
-# Section 1: Node-RED Basics
+# 第一部分：Node-RED 基础
 
 在本节中,读者会明白**流为基础的编程**(**FBP)工具,包括 Node-RED,以及如何进行物联网/ web 编程,并将学习如何使用 Node-RED 流编辑器在一个基本水平。**
 
